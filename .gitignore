@@ -1,0 +1,10 @@
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+.DS_Store
+output/
+svg_chars/
+debug_boxes.png
+*.ttf
+ff_generate.py
